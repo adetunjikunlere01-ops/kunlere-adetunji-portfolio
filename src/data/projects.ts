@@ -8,7 +8,7 @@ export type Project = {
 export const projects: Project[] = [
   {
     slug: "avisterra-residence-2", title: "Avisterra Residence 2", location: "Lekki Phase 1, Lagos",
-    typology: "Luxury condominium · 18 units", status: "Project in progress", category: "Multi-family", year: "2026",
+    typology: "Luxury condominium · 18 units", status: "Status to confirm", category: "Multi-family", year: "To be confirmed",
     summary: "A compact urban site becomes the setting for an 18-unit residential development, organised around an elevated ground plane and a sequence of private and shared outdoor spaces.",
     brief: "The proposal accommodates 18 residential units on a 1,009.79 sqm site in Lekki Phase 1. The brief called for a high-quality condominium with resident parking, shared amenities and a clear arrival sequence.",
     challenge: "The central design question was how to accommodate the required residential density, parking and amenity spaces without allowing the building to feel congested or compromising the quality of the ground plane.",
@@ -18,7 +18,7 @@ export const projects: Project[] = [
   },
   {
     slug: "cc-residence", title: "CC Residence", location: "Cowrie Creek Estate, Ikate, Lagos",
-    typology: "Semi-detached residential · 2 homes", status: "Project in progress", category: "Residential", year: "2026",
+    typology: "Semi-detached residential · 2 homes", status: "Status to confirm", category: "Residential", year: "To be confirmed",
     summary: "A pair of contemporary family homes shaped by privacy, outdoor living and a layered architectural language suited to a waterfront estate setting.",
     brief: "The project is a semi-detached twin residential development on an 830.29 sqm site within Cowrie Creek Estate, Ikate. The brief brings together generous family living spaces, private outdoor areas and a distinct identity for each home within a coherent pair.",
     challenge: "The design needed to balance the visual unity of the two homes with privacy between households, while making the most of the site's dimensions and the relationship between interior spaces and the rear garden.",
@@ -28,7 +28,7 @@ export const projects: Project[] = [
   },
   {
     slug: "rainbow-court", title: "Rainbow Court", location: "Lekki Phase 1, Lagos",
-    typology: "Multi-family residential", status: "Project in progress", category: "Multi-family", year: "2026",
+    typology: "Multi-family residential", status: "Status to confirm", category: "Multi-family", year: "To be confirmed",
     summary: "A multi-family residential scheme that brings different apartment typologies together through a layered façade and a clear hierarchy of shared and private spaces.",
     brief: "The development combines lower-level duplexes with upper-level maisonettes. Its brief required a varied residential offer supported by communal amenities and a strong architectural identity.",
     challenge: "The project brings together different dwelling types within one building. The design challenge is to maintain privacy, daylight and legibility while coordinating the spatial, structural and building-services requirements of the varied units.",
@@ -38,7 +38,7 @@ export const projects: Project[] = [
   },
   {
     slug: "wonderpark-5", title: "Wonderpark 5", location: "Lekki Peninsula Scheme 1, Lagos",
-    typology: "Residential development · 17 units", status: "Design proposal", category: "Multi-family", year: "2026",
+    typology: "Residential development · 17 units", status: "Status to confirm", category: "Multi-family", year: "To be confirmed",
     summary: "A five-level residential proposal for 17 two-bedroom apartments, combining an open arrival level with shared facilities and rooftop leisure spaces.",
     brief: "The proposal accommodates 17 two-bedroom apartments within a five-level building. The wider brief includes parking, concierge, a gym and shared leisure amenities.",
     challenge: "The design has to organise residential access, parking and communal facilities within a compact urban footprint, while giving the building a recognisable identity and maintaining a welcoming ground level.",
